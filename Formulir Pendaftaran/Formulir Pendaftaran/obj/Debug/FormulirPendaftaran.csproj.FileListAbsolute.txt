@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Formulir Pendaftaran\Formulir Pendaftaran\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ACER\source\repos\Formulir Pendaftaran\Formulir Pendaftaran\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ACER\source\repos\Formulir Pendaftaran\Formulir Pendaftaran\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ACER\source\repos\Formulir Pendaftaran\Formulir Pendaftaran\obj\Debug\FormulirPendaftaran.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Formulir Pendaftaran\Formulir Pendaftaran\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\ACER\source\repos\Formulir Pendaftaran\Formulir Pendaftaran\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ACER\source\repos\Formulir Pendaftaran\Formulir Pendaftaran\obj\Debug\FormulirPendaftaran.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Formulir Pendaftaran\Formulir Pendaftaran\obj\Debug\FormulirPendaftaran.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Formulir Pendaftaran\Formulir Pendaftaran\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ACER\source\repos\Formulir Pendaftaran\Formulir Pendaftaran\obj\Debug\WindowsFormsApp2.pdb
